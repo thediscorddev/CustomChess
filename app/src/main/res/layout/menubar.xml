@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/menuBar"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:orientation="horizontal"
+    android:background="#64b56c"
+    android:gravity="center_vertical">
+
+    <Button
+        android:id="@+id/homeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Home"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/menubutton" />
+    <Button
+        android:id="@+id/AllGamesButton"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="All games"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/menubutton" />
+
+    <Button
+        android:id="@+id/settingsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Settings"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/menubutton" />
+</LinearLayout>

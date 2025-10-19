@@ -1,0 +1,4 @@
+package dev.thein.custom_chess
+class DataHandler {
+    
+}

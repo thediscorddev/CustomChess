@@ -1,0 +1,6 @@
+.gradle
+.gradle/*
+.vscode
+.vscode/*
+gradle
+gradle/*

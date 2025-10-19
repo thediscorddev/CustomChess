@@ -1,0 +1,9 @@
+{
+  "kotlin.languageServer.enabled": true,
+  "kotlin.languageServer.path": "gradlew",
+  "java.import.gradle.enabled": true,
+  "kotlin.compiler.arguments": [
+    "-classpath",
+    "/opt/android-sdk/platforms/android-34/android.jar"
+  ]
+}

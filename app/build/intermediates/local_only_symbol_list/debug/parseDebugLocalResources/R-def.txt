@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+drawable board_black
+drawable board_white
+drawable menubutton
+font abrilfatface
+font pixelifysans
+font roboto
+id AllGamesButton
+id SubmitButton
+id WelcomeTitle
+id board
+id clickButton
+id helloText
+id homeButton
+id menuBar
+id settingsButton
+id statusText
+id usernameInput
+layout activity_firstlaunch
+layout activity_main
+layout menubar
+mipmap ic_launcher
