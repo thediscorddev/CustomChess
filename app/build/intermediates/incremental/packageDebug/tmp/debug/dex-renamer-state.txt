@@ -1,4 +1,4 @@
-#Sun Oct 19 15:32:53 ICT 2025
+#Sun Oct 19 16:56:27 ICT 2025
 base.2=/data/CustomChess/app/build/intermediates/dex/debug/mergeProjectDexDebug/13/classes.dex
 path.2=13/classes.dex
 base.1=/data/CustomChess/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex

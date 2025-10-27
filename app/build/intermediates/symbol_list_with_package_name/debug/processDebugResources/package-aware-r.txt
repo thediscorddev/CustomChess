@@ -3012,6 +3012,7 @@ font abrilfatface
 font pixelifysans
 font roboto
 id ALT
+id AboutButton
 id AllGamesButton
 id BOTTOM_END
 id BOTTOM_START
@@ -3101,6 +3102,8 @@ id beginOnFirstDraw
 id beginning
 id blocking
 id board
+id boardContainer
+id boardImage
 id bottom
 id bounce
 id buttonPanel
@@ -3141,6 +3144,7 @@ id decelerateAndComplete
 id decor_content_parent
 id default_activity_button
 id deltaRelative
+id description
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -3589,8 +3593,13 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_about
+layout activity_allgames
 layout activity_firstlaunch
 layout activity_main
+layout activity_settings
+layout board_blackside
+layout board_whiteside
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
