@@ -21,12 +21,43 @@
             android:fontFamily="@font/pixelifysans"
             android:text="Settings"
             android:textSize="18sp" />
-                    <TextView
-            android:id="@+id/description"
+        <TextView
+            android:id="@+id/username"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="@font/pixelifysans"
-            android:text="tba"
+            android:text="Username"
             android:textSize="18sp" />
+        <EditText
+            android:id="@+id/usernameInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter your username" />
+        <TextView
+            android:id="@+id/themetext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/pixelifysans"
+            android:text="Theme"
+            android:textSize="18sp" />
+        <RadioGroup
+            android:id="@+id/ThemeGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/radioBlack"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Black theme" />
+
+            <RadioButton
+                android:id="@+id/radioWhite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="White theme" />
+
+        </RadioGroup>
     </LinearLayout>
 </LinearLayout>

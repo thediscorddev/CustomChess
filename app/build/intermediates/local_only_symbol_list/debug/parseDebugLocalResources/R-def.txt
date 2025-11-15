@@ -9,8 +9,8 @@ font roboto
 id AboutButton
 id AllGamesButton
 id SubmitButton
+id ThemeGroup
 id WelcomeTitle
-id board
 id boardContainer
 id boardImage
 id clickButton
@@ -18,9 +18,13 @@ id description
 id helloText
 id homeButton
 id menuBar
+id radioBlack
+id radioWhite
 id settingsButton
 id statusText
+id themetext
 id title
+id username
 id usernameInput
 layout activity_about
 layout activity_allgames
