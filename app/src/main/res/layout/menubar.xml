@@ -29,4 +29,11 @@
         android:text="Settings"
         android:textColor="#FFFFFF"
         android:background="@drawable/menubutton" />
+    <Button
+        android:id="@+id/AboutButton"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="About this application"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/menubutton" />
 </LinearLayout>

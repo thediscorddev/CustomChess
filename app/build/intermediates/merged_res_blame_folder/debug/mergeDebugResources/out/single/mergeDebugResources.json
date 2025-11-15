@@ -16,12 +16,16 @@
         "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/layout/activity_firstlaunch.xml"
     },
     {
+        "merged": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-debug-4:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-debug-4:/font_abrilfatface.ttf.flat",
         "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/font/abrilfatface.ttf"
     },
     {
-        "merged": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-debug-4:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-debug-4:/layout_activity_settings.xml.flat",
+        "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/layout/activity_settings.xml"
     },
     {
         "merged": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-debug-4:/mipmap-mdpi_ic_launcher.png.flat",
@@ -32,28 +36,44 @@
         "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "dev.thein.custom_chess.app-debug-4:/drawable_board_black.xml.flat",
-        "source": "dev.thein.custom_chess.app-main-6:/drawable/board_black.xml"
+        "merged": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-debug-4:/layout_activity_about.xml.flat",
+        "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/layout/activity_about.xml"
     },
     {
         "merged": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-debug-4:/mipmap-hdpi_ic_launcher.png.flat",
         "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-debug-4:/drawable_menubutton.xml.flat",
-        "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/drawable/menubutton.xml"
+        "merged": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-debug-4:/drawable_board_black.xml.flat",
+        "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/drawable/board_black.xml"
     },
     {
-        "merged": "dev.thein.custom_chess.app-debug-4:/drawable_board_white.xml.flat",
-        "source": "dev.thein.custom_chess.app-main-6:/drawable/board_white.xml"
+        "merged": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-debug-4:/layout_board_whiteside.xml.flat",
+        "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/layout/board_whiteside.xml"
+    },
+    {
+        "merged": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-debug-4:/drawable_menubutton.xml.flat",
+        "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/drawable/menubutton.xml"
     },
     {
         "merged": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-debug-4:/layout_activity_main.xml.flat",
         "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/layout/activity_main.xml"
     },
     {
+        "merged": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-debug-4:/layout_activity_allgames.xml.flat",
+        "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/layout/activity_allgames.xml"
+    },
+    {
         "merged": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-debug-4:/font_pixelifysans.ttf.flat",
         "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/font/pixelifysans.ttf"
+    },
+    {
+        "merged": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-debug-4:/layout_board_blackside.xml.flat",
+        "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/layout/board_blackside.xml"
+    },
+    {
+        "merged": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-debug-4:/drawable_board_white.xml.flat",
+        "source": "/home/thein/.gradle/daemon/9.1.0/dev.thein.custom_chess.app-main-6:/drawable/board_white.xml"
     },
     {
         "merged": "dev.thein.custom_chess.app-debug-4:/layout_activity_main.xml.flat",

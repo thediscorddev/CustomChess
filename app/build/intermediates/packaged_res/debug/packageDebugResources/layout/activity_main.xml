@@ -7,29 +7,31 @@
     <!-- Menu bar at the top -->
     <include layout="@layout/menubar" />
     <!-- Main content below -->
-    <LinearLayout
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical"
-        android:gravity="center"
-        android:padding="16dp">
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:padding="16dp">
 
-        <TextView
-            android:id="@+id/helloText"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:fontFamily="@font/pixelifysans"
-            android:text="Hello, from thein I guess..?"
-            android:textSize="18sp" />
-            <ImageView
-            android:id="@+id/board"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:src="@drawable/board_white" />
-        <Button
-            android:id="@+id/clickButton"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Press me" />
-    </LinearLayout>
+            <TextView
+                android:id="@+id/helloText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/pixelifysans"
+                android:text="Hello, from thein I guess..?"
+                android:textSize="18sp" />
+            <include layout="@layout/board_whiteside" />
+            <Button
+                android:id="@+id/clickButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Press me" />
+        </LinearLayout>
+    </ScrollView>
 </LinearLayout>
